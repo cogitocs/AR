@@ -1,0 +1,14 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="UserInterfaceButtons">
+			<method name="RotationRightButtonRepeat"/>
+			<method name="RotateRightButtonOff"/>
+			<method name="ScaleUpButtonRepeat"/>
+			<method name="ScaleUpButtonOff"/>
+			<method name="ScaleDownButtonRepeat"/>
+			<method name="ScaleDownButtonOff"/>
+			<method name="RotationLeftButtonRepeat"/>
+			<method name="RotateLeftButtonOff"/>
+		</type>
+	</assembly>
+</linker>

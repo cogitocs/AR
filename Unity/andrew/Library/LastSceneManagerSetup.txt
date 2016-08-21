@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/andrew_interaction.unity
+  isLoaded: 1
+  isActive: 1
